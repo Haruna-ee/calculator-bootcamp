@@ -1,0 +1,27 @@
+body{
+    background: #333;
+
+}
+
+#display {
+    height: 150px;
+    border: 1px solid #bbbbbb;
+    width: 400px;
+    background: white;
+    border-radius: 7px;
+    padding: 10px;
+    font-size: 22px;
+}
+#numberpad{
+    height: 400px;
+    padding: 10px;
+    font-size: 22px;
+}
+.numbers{
+    background: white;
+    border-radius: 7px;
+    padding: 3px;
+    width: 50px;
+    text-align: center;
+}
+
